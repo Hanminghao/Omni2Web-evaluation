@@ -1,0 +1,2 @@
+{"sample_id": "synthetic_restore", "response": "```html\n<!doctype html><html><body><h1 style=\"color:black\">Welcome</h1><p>Example text</p></body></html>\n```"}
+{"sample_id": "synthetic_edit", "response": "```html\n<!doctype html><html><body><h1 style=\"color:blue\">Welcome</h1><p>Example text</p></body></html>\n```"}

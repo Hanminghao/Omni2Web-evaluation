@@ -1,0 +1,2 @@
+{"sample_id": "synthetic_restore", "response": "[{\"step\": 1, \"target\": \"the main heading\", \"instruction\": \"Make it red\"}, {\"step\": 2, \"target\": \"the main heading\", \"instruction\": \"Restore its black color\"}]"}
+{"sample_id": "synthetic_edit", "response": "[{\"step\": 1, \"target\": \"the Welcome heading\", \"instruction\": \"Make it blue\"}]"}
